@@ -1,5 +1,4 @@
-<img src="https://imgtr.ee/images/2023/08/05/f7f791cce2b49952c9e0fdc0349f1da0.jpeg" alt="f7f791cce2b49952c9e0fdc0349f1da0.jpeg" border="0" height ="200" align: center>
-<h1 align="center">Hi 👋, I'm Dayam Nadeem</h1>
+ <h1 align="center">Hi 👋, I'm Dayam Nadeem</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/dayamnadeem" target="blank"><img src="https://img.shields.io/twitter/follow/dayamnadeem?logo=twitter&style=for-the-badge" alt="dayamnadeem" /></a> </p>
