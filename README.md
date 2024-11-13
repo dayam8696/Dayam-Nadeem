@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dayam8696@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MW8H-bxs-YYsPs8kgM4Kd78x3HlKansd/view?usp=sharing](https://drive.google.com/file/d/1MW8H-bxs-YYsPs8kgM4Kd78x3HlKansd/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1OvSrHQ9TQ5kZMI99mXqIVait5sVNE-Rm/view?usp=sharing)
 
 - ⚡ Fun fact **Call me any time if you want to code**
 
